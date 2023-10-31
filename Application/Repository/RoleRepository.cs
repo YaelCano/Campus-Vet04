@@ -14,7 +14,7 @@ namespace Application.Repository
 
     public RoleRepository(CampusVet4Context context) : base(context)
     {
-       _context = context;
+        _context = context;
     }
 }
 }
